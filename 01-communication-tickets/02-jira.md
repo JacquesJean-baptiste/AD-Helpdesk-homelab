@@ -1,4 +1,4 @@
-I can't sign in on the PC at the other office, but my home laptop works
+I can't sign in on the PC at the other office, but my home laptop works (screenshot)
 
 Step 1: Investigation
 - 1.0 Greet the user and inform them that you will look into the issue and get back to them as soon as possible (Screenshot)
