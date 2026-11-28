@@ -1,4 +1,4 @@
-I clicked a link in an email and now my account is disabled
+I clicked a link in an email and now my account is disabled (screenshot)
 
 Step 1: Investigation
 - 1.0 Greet the user and inform them that you will look into the issue and get back to them as soon as possible (Screenshot)
