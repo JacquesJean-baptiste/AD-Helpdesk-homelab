@@ -1,4 +1,4 @@
-(screenshot) My account keeps getting locked out every half hour, even though I haven’t changed anything
+My account keeps getting locked out every half hour, even though I haven’t changed anything (screenshot)
 
 Step 1: Investigation
 - 1.0 Greet the user and inform them that you will look into the issue and get back to them as soon as possible (Screenshot)
